@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://mustaphayusuf.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/m_y_tahir
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -50,12 +50,12 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: musty4000@outlook.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Mustapha Yusuf
+    bio: A Man who of code and ux engineering
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
