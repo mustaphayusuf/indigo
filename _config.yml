@@ -1,6 +1,6 @@
 # main text of home
 name: Mustapha Yusuf
-bio: A Man of code and ux engineering
+bio: A Man who loves code and engineering.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: https://twitter.com/m_y_tahir
+#facebook: myfacebook
+twitter: m_y_tahir
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: mustaphayusuf
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -55,10 +55,10 @@ email: musty4000@outlook.com
 authors:
   johndoe:
     name: Mustapha Yusuf
-    bio: A Man who of code and ux engineering
+    bio: A Man who loves code and engineering.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: m_y_tahir
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
