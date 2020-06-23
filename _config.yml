@@ -1,6 +1,6 @@
 # main text of home
 name: Mustapha Yusuf
-bio: A Man who loves code and engineering.
+bio: A Man who loves code and the engineering behind it.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ email: musty4000@outlook.com
 authors:
   johndoe:
     name: Mustapha Yusuf
-    bio: A Man who loves code and engineering.
+    bio: A Man who loves code and the engineering behind it.
     external-image: false
     picture: assets/images/profile.jpg
     twitter: m_y_tahir
