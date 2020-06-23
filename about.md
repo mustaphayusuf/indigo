@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hey, my name is Mustapha Yusuf, a Student of Computer Science who sees himself a junior Developer, my love in Technology led me to be a Programmer and my love in Design led me to be a Front End Developer. What i know is, all these Practices go with Rules and Principles, that is why i love Engineering, what i always want to know is what drives them to their exixtence.</p>
+<p>Hey, my name is Mustapha Yusuf, a Student of Computer Science who sees himself a Junior Developer, my love in Technology led me to be a Programmer and my love in Design led me to be a Front End Developer. What i know is, all these Practices go with Rules and Principles, that is why i love Engineering, what i always want to know is what drives them to their exixtence.</p>
 
 <p>I always want to practice some Experiences, that is why i delve into User Experience Design having Google as a good Source to my Study and also my Mentor, being a UX Engineer makes you think defferent (which i really want) and also makes you speak to your Audience without giving a single Word, and sometimes it is much better than to Speak.</p>
 
