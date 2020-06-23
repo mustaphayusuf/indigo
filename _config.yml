@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://mustaphayusuf.github.io
+url: https://mytahir.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -41,7 +41,7 @@ twitter: m_y_tahir
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mustaphayusuf
+github: mytahir
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
